@@ -25,5 +25,13 @@
             <path
                 d="M30.512 3.845a1.666 1.666 0 1 0-2.357-2.357L16 13.643 3.845 1.488a1.666 1.666 0 1 0-2.357 2.357L13.643 16 1.488 28.155a1.666 1.666 0 1 0 2.357 2.357L16 18.357l12.155 12.155a1.666 1.666 0 1 0 2.357-2.357L18.357 16 30.512 3.845z" />
         </symbol>
+        <symbol id="icon-arrow-left" viewBox="0 0 32 32">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M6.667 16h18.667M6.667 16l8 8M6.667 16l8-8" />
+        </symbol>
+        <symbol id="icon-arrow-right" viewBox="0 0 32 32">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M6.667 16h18.667M17.333 24l8-8M17.333 8l8 8" />
+        </symbol>
     </defs>
 </svg>
